@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = "https://chattest-backend-a.azurewebsites.net/api";
+
 
 
 function App() {
